@@ -1,0 +1,9 @@
+{
+	"ip":"1tygoime.aternos.me",
+	"port": 46399,
+	"name": "thanhbestflo(bot)",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
+}
